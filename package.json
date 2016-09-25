@@ -12,6 +12,7 @@
     "bing.search": "^1.0.1",
     "dotenv": "^2.0.0",
     "express": "^4.14.0",
-    "express-handlebars": "^3.0.0"
+    "express-handlebars": "^3.0.0",
+    "mongodb": "^2.2.10"
   }
 }
